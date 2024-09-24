@@ -8,7 +8,7 @@ export default function Nav() {
       <nav className="max-w-[1200px] w-full mx-auto h-[80px] flex items-center juqtify-between p-5 border-b border-gray-300"> 
           <div>
             <Link href="/">
-                <Image width={30} height={30} src="" alt='Ch tech'/>
+                <Image width={70} height={70} src="/logoo.png" alt='Ch tech'/>
             </Link>
           </div>
         </nav>
