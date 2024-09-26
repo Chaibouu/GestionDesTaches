@@ -11,7 +11,7 @@ export default function page() {
             <div className="w-12 bg-white my-2 mx-1 h-[1px]"></div>
         </div>
         <Button>
-            <Link href="/"> Ajouer une Tâche</Link>
+            <Link href="/"> Ajouer une Tâch</Link>
         </Button>
       </div>
     </section>
